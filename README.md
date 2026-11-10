@@ -1,1 +1,1 @@
-# mag-emojis
+# MagEmojis
